@@ -1,0 +1,277 @@
+SERIES A - SERIES A - SERIES A - SERIES A - SERIES A 
+1. PRINT Hello World
+2. PRINT NUMBER ENTERED BY USER
+3. ADD TWO NUMBERS
+4. FIND QUOTIENT AND REMAINDER
+5. FIND SIZE OF CHAR, INT, FLOAT, DOUBLE IN YOUR SYSTEM
+6. SWAP TWO NUMBERS WITH 3 VARIBLES
+7. SWAP TWO NUMBERS USING 2 VARIABLES
+8. CHECK WHETHER A CHARACTER IS LOWERCASE OR UPPERCASE
+9. CHECK WHETHER A CHARACTER IS VOWEL OR CONSONANT
+10. FIND LARGEST NUMBER AMONG 3 NUMBERS
+11. FIND ROOTS OF A QUADRATIC EQUATION
+12. CALCULATE SUM OF n NATURAL NUMBERS
+13. CHECK LEAP YEAR
+14. FIND FACTORIAL OF A NUMBER
+15. GENERATE A MULTIPLICATION TABLE
+16. DISPLAY FIBONACII SERIES - 1
+17. FIND GCD OF 2 NUMBERS
+18. FIND LCM OF 2 NUMBERS
+19. CALCUALTE POWER OF A NUMBER
+20. REVERSE A NUMBER
+21. SIMPLE CALCULATOR USING SWITCH CASE
+22. STORE AND DISPLAY INFORMATION USING STRUCTURE
+23. CALCULATE AVERAGE OF NUMBERS USING ARRAY
+24. CLACULATE AVERAGE OF NUMBERS USING ARRAY AND DYNAMIC MEMORY ALLOCATION
+25. CHECK WHETHER A NUMBER IS EVEN OR ODD
+26. CONVERT BINARY NUMBER TO DECIMAL
+27. CONVERT A DECIMAL INTO A BINARY NUMBER -1
+28. DISPLAY FACTORS OF A NUMBER
+29. CHECK WHETHER A NUMBER IS PALINDROME OR NOT
+30. CHECK WHETHER A NUMBER IS AN AMRSTONG NUMBER OR NOT
+31. DISPLAY ARMSTRONG NUMBER BETWEEN 2 INTERVALS
+32. DISPLAY PALINDROME NUMBERS BETWEEN 2 INTERVALS
+33. CHECK WHETHER A NUMBER IS PRIME NUMBER OR NOT
+34. DISPLAY PRIME NUMBERS BETWEEN 2 INTERVALS
+35. SWAP NUMBERS IN CYCLICAL ORDER USING DYNAMIC MEMORY ALLOCATION
+36. SCAN VLAUES OF AN ARRAY AND DISPLAY USING DYNAMIC MEMORY ALLOCATION
+37. FIND NUMBER OF DIGITS IN AN INTEGER
+38. FIND ASCII VALUE OF A CHARACTER
+39. FIND AREA AND CIRCUMFERENCE OF A CIRCLE
+40. FIND AREA OF A TRIANGLE USING BASE AND HEIGHT
+41. FIND AREA OF TRIANGLE USING 3 SIDES
+42. CALCULATE SIMPLE INTEREST
+43. CONVERT TEMPERATURE FROM CELSIUS TO FARENHEIT
+44. CONVERT TEMPERATURE FROM FARENHEIT TO CELSIUS
+45. READ AN INTEGER AND PRINT FIRST 3 POWERS (n^1, n^2, n^3)
+46. CHECK WHETHER A NUMBER IS POSITIVE OR NEGATIVE
+47. CHECK WHETHER A CHARACTER IS ALPHABET OR NOT
+48. CHECK WHETHER A CHARACTER IS UPPERCASE, LOWERCASE, SPECIAL CHARACTER OR DIGIT
+49. VOTING ELIGIBILITY CHECKER
+50. CHECK WHETHER A NUMBER IS DIVISIBLE BY 5 AND 11 or NOT
+51. SCAN WEEK NUMBER AND PRINT WEEK DAY
+52. SCAN MONTH NUMBER AND DISPLAY NUMBER OF DAYS IN THAT MONTH
+53. SCAN ANGLES OF A TRIANGLE AND CHECK WHETHER THE TRIANGLE IS VALID OR NOT
+54. CHECK WHETHER A TRIANGLE IS EQUILATERAL, ISOSCELES OR SCALENE
+55. CALCULATE PROFIT OR LOSS
+56. SCAN MARKS OF A STUDENT AND FIND THE GRADE USING SWITCH CASE
+57. PRINT TOTAL NUMBER OF DAYS IN A MONTH USING SWITCH CASE
+58. CHECK WHETHER AN ALPHABET IS VOWEL OR CONSONANT USING SWITCH CASE
+59. CHECK WHETHER A NUMBER IS POSITIVE NEGATIVE OR ZERO USING SWITCH CASE
+60. FIND ROOTS OF QUADRATIC EQUATION USING SWITCH CASE
+61. PRINT HALF PYRAMID USING *
+62. PRINT HALF PYRAMID USING NUMBERS
+63. PRINT HALF PYRAMID USING ALPHABETS - 1
+64. PRINT HALF PYRAMID USING ALPHABETS - 2
+65. PRINT INVERTED HALF PYRAMID USING *
+66. PRINT INVERTED HALF PYRAMID USING NUMBERS
+67. PRINT FULL PYRAMID USING * - 1
+68. PRINT FULL PYRAMID USING * - 2
+69. !!!!! INCOMPLETE - PRINT FULL PYRAMID USING NUMBERS - INCOMPLETE !!!!!! 1, 2 3 2, 3 4 5 4 3, 4 5 6 7 6 5 4, ...
+70. FIND NUMBER OF CHARACTERS IN A STRING
+71. Dynamic Memory Allocation in C++
+72. SCAN NUMBER OF STUDENTS AND THEIR GPA USING DYNAMIC MEMORY ALLOCATION
+73. SCAN NUMBER OF STUDENTS AND THEIR ROLL NUMBERS USING DYNAMIC MEMORY ALLOCATION
+74. Write a program to read the values of a, b and c display the values of x, where x = a/b-c
+75. Write a program to calculate variance and standard deviation of n numbers
+76. Write a function using reference variables as arguments to swap the vaules of a pair of integers
+77. PRINT HALF PYRAMID USING NUMBERS - 2
+78. Write a program to evaluate the following investment equation : A = P(1+r)^n and print tables which would give the value of A for various combination of P,r,n
+79. An election is conducted by 5 condidates. The candidates are numbered 1 to 5 and the voting is done by marking the candidate number on the ballot paper. Write a program to read the ballots and count the voates cast for each candidate using an array variable count. Incase a number is read outside the range 1 to 5, the ballot should be considered as spoilt ballot and the program should also count spoilt ballots
+80. Write a Program to calculate value of sin(x) using expansion
+81. Write a program to compute the area of triangle and circle by overloading area() function
+82. Write a program using 2 separate inline functions for multiplication and division of integers
+83. Calculate factorial of a number using recursion
+84. Write a function power() to raise a number m to a power n. Function takes double value for m and int value for n. Use default value of 2 for n.
+85. Write a program to read a matrix of size mxn from the keyboard and display the same on the screen using functions. Make row parameter of the matrix as a default argument
+86. FIND LARGEST NUMBER AMONG 3 NUMBERS USING INLINE FUNCTION
+87. Find absolute value of an integer
+88. Find absolute value of an integer using fabs()
+89. DISPLAY FIBONACII SERIES - 2
+90. Write a Program to calculate value of cos(x) using expansion
+91. Write a Program to evaluate value of SUM = 1 + (1/2)^2 + (1/3)^2 + (1/4)^2 + (1/5)^2...
+92. Write a Program to read the figures in a set format, calculate the batting averages and print the complete table including the averages
+93. Write a program to print a table of values of the function y = e^-x for x varying from 0 to 10in steps of 0.1
+94. Explicit type casting
+95. Use of manipulators
+96. Scope resolution operator
+97. CONVERT A DECIMAL INTO A BINARY NUMBER using Array
+98. Simple example of use of Vector
+99. Use of at() function in Vectors
+100. Scan the Name and Age of a person and save it in a text file.  Display the file contents after filling up the information
+101. Scan sentences from the user until -1 and save all the data in a file. Also display the contents of the file
+102. Scan the name of a file and display its contents
+103. Scan the name of a file and display its contents. If the user wants to add anything, make provision for the same
+104. List down all the characters of a file according to their position
+105. Create a menu driven program to perform add (append) and Display multiple student records using file handling
+106. Merge 2 files into a new single file using File Handling
+107. INCOMPLETE !!!!! - Count all the digits, alphabets and 
+108. Example of Pointer and pointer-to-pointer
+109. Use a pointer and a pointer-to-pointer to increment the value of an integer
+110. Increment the value of a pointer and a pointer-to-pointer to an integer
+111. Arithmetic operations on Pointers
+112. Perform Linear Search on an array using pointers
+113. PROBLEM !!!!! - Create an array of pointers which pointes to fininte amount of character arrays / strings
+114. Search a substring within a string
+115. Pointers to Function example
+116. Write a program to calculate factorial of an integer using pointer to function concept
+117. Count the number of characters in a sentence entered by the user using get() and put()
+118. Accept the name of a city and display it using getline()
+119. Display a pattern using write(). Also concatenate 2 strings
+120. Specifying field size using width()
+121. Using template, create a program to accept any data type and display using a function
+122. Precision setting with precision()
+123. Create an triangle pattern of the value of pi using width and precision operators
+124. Create a file and save item name and cost. Also display the file contents after saving
+125. Create a file country and enter names of 3 countries. Create another file capital and enter names of 3 capitals. Read all the contents after saving
+126. Read the file country and capital and diplay the merged content i.e Read simultaneously from 2 files
+127. Read and Write file contents using get() and put()
+128. I/O Operations on binary files
+129. Command Line Arguments - Count and display the arguemnts for the main function
+130. Create a program which creates 2 files ODD and EVEN using the command-line arguments, and a set of numbers stored in an array are written into these files. Note that the odd numbers are written to the file ODD and even numbers sre written to the file EVEN. the program then displays the contents of these files
+131. Two files 'source1' and 'source2' contain sorted list of integers. Write a program that reads the contents of both the files and stores the merged list in sorted form in a new file named 'target'
+132. Write a C++ Program to Count Digits, Alphabets and Spaces using File Handling.
+133. Write a program to generate user defined message:”Special Characters are not Allowed” using exception. Program will display this message when user tries to enter any special characters while scanning the name of the person.
+134. Write a program to implement the concept of stack using template. (Capability to accept all types of data: int, char and float).
+136. Matrix Addition, Subtraction and Multiplication
+137. String manipulation
+138. Convert from ASCII to character
+
+SERIES B - SERIES B - SERIES B - SERIES B - SERIES B
+1.a Scan the values of integer, character and float data and display them using ‘cin’ and ‘cout’
+1.b Write a Program to find maximum out of 2 different values using ‘cin’ and ‘cout’
+1.c Write a Program to find maximum out of 3 different values using ‘cin’ and ‘cout’
+1.d Write a Program to scan an integer array of 5 elements
+1.e Write a Program of a simple calculator using switch case and ‘cin’ and ‘cout’ objects
+2.a WAP using 'class' with name bank, with functions to input value of amount, withdraw, deposited and display the amount
+2.b Using outside the class definition of function, rewrite the above program of bank
+2.c Create one class called item to have details of 5 items, having following member functions: i) getitem()- to assign values to data member ii) displaysum()- display total value iii) remove()- delete specific item iv) displayitem()- display content With following data type: i) int item_code ii) float item_price
+3.a Create a class employee having two data members char name & float age, this class is also having function void getdata() & void putdata() input and display the details of 5 different employees.
+3.b Create a class time having two data members int hour and int minutes, this class also having function void gettime(), void puttime() & void sum(). Display the sum of time taken input from two different objects of class passing object as an argument to the function.
+3.c Create a class root which will find the root of a quadratic equation, make a member function void calc() which will calculate the root having value of linear coefficient ‘b’ as default argument.
+3.d Create two class car & truck with data members as speed, create a friend function void speed to tell which has greater speed car or truck.
+?.a Create a class A having private integer data member a, having public integer data member b and public function void set_ab()- initialize a & b, void get_a()- return value of a, void show()- print the value of a. Create a class B which will derive public from base class and data member c and function multiplication()- multiply and display the product.
+?.b Class B is inherited privately from class A in previous question, now print the product.
+?.? Multilevel inheritance
+?.? Multiple inheritance
+?.? Heirarcial inheritance
+?.? Hybrid inheritance
+
+SERIES C - SERIES C - SERIES C - SERIES C - SERIES C
+1.a Write a program showcasing Call by Value 
+1.b Write a program showcasing Call by Reference
+2.a Write a program showcasing Dynamic Memory Allocation using malloc()
+2.b Write a program showcasing Dynamic Memory Allocation using calloc()
+3. Write a Program of Stack Operations with push, pop, peep, change and display functions
+4. Infix to Postfix conversion
+5. Implement QUEUE using arrays that performs following operations: (a) INSERT (b) DELETE (c) DISPLAY
+6. Implement Circular Queue using arrays that performs following operations. (a) INSERT (b) DELETE (c) DISPLAY
+7. Write a Program to implement operations on Singly linked list 
+8. !!!!! INCOMPLETE - Write a Program to implement operations on Circular linked list
+9. Write a Program to implement operations on Double linked list
+10. Write a simple program to showcase the use of Insertion and deletion in Binary Tree
+11. Write program for Inorder, Preorder and Postorder Traversal of Binary Search Tree
+12. Binary Search
+
+SERIES D - SERIES D - SERIES D - SERIES D - SERIES D
+1. Create a class named 'Student' with a string variable 'name' and an integer variable 'roll_no'. Assign the value of roll_no as '2' and that of name as "John" by creating an object of the class Student.
+2. Assign and print the roll number, phone number and address of two students having names "Sam" and "John" respectively by creating two objects of the class 'Student'.
+3. Write a program to print the area and perimeter of a triangle having sides of 3, 4 and 5 units by creating a class named 'Triangle' with a function to print the area and perimeter.
+4. Write a program to print the area and perimeter of a triangle having sides of 3, 4 and 5 units by creating a class named 'Triangle' with the constructor having the three sides as its parameters.
+5. Write a program to print the area of two rectangles having sides (4,5) and (5,8) respectively by creating a class named 'Rectangle' with a function named 'Area' which returns the area. Length and breadth are passed as parameters to its constructor.
+6. Write a program to print the area of a rectangle by creating a class named 'Area' having two functions. First function named as 'setDim' takes the length and breadth of the rectangle as parameters and the second function named as 'getArea' returns the area of the rectangle. Length and breadth of the rectangle are entered through keyboard.
+7. Write a program to print the area of a rectangle by creating a class named 'Area' taking the values of its length and breadth as parameters of its constructor and having a function named 'returnArea' which returns the area of the rectangle. Length and breadth of the rectangle are entered through keyboard.
+8. Print the sum, difference and product of two complex numbers by creating a class named 'Complex' with separate functions for each operation whose real and imaginary parts are entered by the user.
+9. Write a program to print the volume of a box by creating a class named 'Volume' with an initialization list to initialize its length, breadth and height. (just to make you familiar with initialization lists)
+10. Write a program which will ask for temperature in farenheit and display in celsius using a class named temp and other member functions.
+11. Scan the number of students and their age by creating a class named student using Dynamic Memory Allocation 
+12. Scan the number of students and their overall percentage by creating a class named stdgrd using Dynamic Memory Allocation
+13. Scan the age of a student and display it using Dynamic Memory Allocation
+14. Create a class named person with string variable name and integer variable age. Create object of class and scan the values using appropriate functions and scope resolution operator
+15. Unary Operator Overloading
+16. Binary Operator Overloading
+17. Concatenate 2 strings using operator overloading
+18. Copy 2 objects using copy constructor syntax and assingment operator syntax
+19. Unary Operator overloading using friend function
+20. Create class student: protected - roll_no , public - void get(int), void put(), create class test derived from student : protected - sub1, sub2, public - void get_marks(int, int), void put_marks(). Create class result derived from test : private - total, public - void display() [display roll_no, marks of sub1 and sub2, total], void main()[create theobject of result class] 
+21. An electricity board charges the following rates to domestic users. For first 100 units, Rs. 0.60 per unit. For next 200 units, Rs. 0.80 per unit. Beyond 300 units, Rs. 0.90 per unit. All users are charged a minumum of Rs. 50. If total amount is more than Rs. 300, additional surcharge of 15% is added.Write a program to read the names of users and number of units consumed and print out the charges with names.
+22. Create a class item with 2 private data members int number and float cost, and 2 public functions getdata() and putdata(). Create 2 objects and show complete functionality
+23. Write a program to find out the ones compliment of a binary number. Create a class named binary with a string variable, void read(), void check_binary(), void ones(), void displayones(). check_binary function must be called within ones function
+24. Write a program to take input of faculty details (ID, Name, Post, Qualification, Address) and display it
+25. Write a program to showcase arrays within a class. create class named items with int itemcode[], float itemprice[], int count and following functions : void cnt(), void getitem(), void displaysum(), void remove(), void displayitems()
+26. Static class members
+27. Static Member Functions
+28. Array of objects : Create a class names employee with 2 private data members i.e name and age with 2 functions getdata() and putdata().
+29. Objects as arguments: create a class named time with data members hours and minutes and 3 member functions gettime(), puttime() and sum()
+30. Use friend function 
+to find mean of 2 numbers. Both numbers are part of the same class
+31. Use friend function to add data object of 2 different classes
+32. Swapping private data of 2 different classes using friend function and constructor to initialize data
+33. Returning Objects: Create a class named matrix with a data member m[n][n] and functions read(), display() and friend function to copy the matrix into a new object
+34. Returning Objects: Write a function that receives two matrix objects as arguments and return a new matrix object containing their multiplication result
+35. Write a class to represent a vector( series of float values) with following member functions : a. Create a vector b. Modify th value of a given element c. Multiply by a scalar value d. Display vector e. Add 2 vectors and display resultant vector
+36. Create 2 classes DM and DB which store values of distances. DM stores distances in meters and centimeters and DB in feet and inches. Write a program that can read values for class objects and add one object of DM with another object of DB. Object that stores the results may be DM or DB based on units in which the results is required.
+37. Define a classc alled point that stores the x and y coordinates. Class must use parameterized constructor for initializing the class objects
+38. Overloaded Constructors: Create a class named complex with one contructor for initializing 1 argument and another constructor for initializing 2 arguments. Use friend function to find sum of 2 complex numbers
+39. !!!!! PROBLEM - Dynamic Initialization of objects: Create a class named fixed_deposit with principal, years, rate, amount with constructors and display functions
+40. Copy Constructor: Create a class named code with a single data member id. Use copy constructor to copy data from one object to another object.
+41. Constructors with new: create a class named string where constructors are used to construct string in objects. Also create a member function to join 2 strings
+42. Construct a matrix of sixe mxn using constructors
+43. Write a program where a destructor is implicitly called by the compiler
+44. Memory Allocation to an object using destructor
+45. Write a program to find a prime number using constructor
+46. !!!!! PROBLEM - Define a class String that could work as a user-defined string type. Include constructors that will enable us to create an uninitialized string and also to initialize an object with a string constant at the time of creatin. Include a function that adds 2 strings to make a third string. Write a complete program to to test your class to see that it does the following tasks : 1. Creates uninitialized string objects 2. Creates objects with string classes 3. Concatenates 2 strings 4. Displays a desired string object
+47. !!!!! INCOMPLETE - A book shop maintains the inventory of books that are being sold at the shop. The list includes details such as author, title, price, publisher and stock position. Whenever a customer wants a book, the slaes person inputs the title and author and the system searches the list and displays wheether it is available or not. If it is not, an appropriate message is displayed. If it is, then the system displays the book details and requests for the number of copies required. If the required copies are available, the total cost of the requested copies is displayed otherwise the message "Required copies not in stock" is displayed. Design a system using a class called books with suitable member functions and constructors. Use new operator to allocate memory space required.
+48. Use dynamic constructor to store a word and display it
+49. Create an array of object dynamically and assign some values using dynamic constructor
+50. Create a class named space with 3 integer type of data members. Overload the unary minus operator such that all the 3 data members become NEGATIVE
+51. Create a class named space with 3 integer type of data members. Overload the unary minus operator such that all the 3 data members become NEGATIVE using Friend FUNCTION
+52. Create a class named named complex with 2 floating point data members. Overload the + operator to perform addition of 2 objects of class complex
+53. Overload the subscript operator []
+54. Overload the Point-to-member operator ->
+55. Create a class FLOAT that contains 1 float data member. Overload all the 4 arithmetic operators so that they operate on the objects of FLOAT
+56. Design a class polar whicih describes a point in the plane using polar coordinates radius and angle. A polar co-ordinate point will be denoted by (r,a) where a is the angle from the positive x axis. First convert the points into rectangular co-ordinates, then add the corresponding rectangular coordinates and finally convert back to polar coordinates
+57. Create a class MAT of size mxn. Define all possible matrix operations for MAT type objects using operator overloading
+58. Define a class string. Use overloaded == operator to compare 2 strings
+59. Convert an int type to class type using Basic to Class type conversion
+60. Create a class named vector with an integer array data member. Convert vector into a double using Class to Basic Type Converstion
+61. !!!!! PROBLEM - Create 2 classes named mks with data members of meters, kilogram, second and cgs with data members centimeter, gram and second all of which are types of double. Convert the objects using one class to another class type conversion
+62. Create a base class B and Derived class D. Class B contains one private member, one public data member and 3 public member functions i.e set_ab(), get_a() and show_a(). Class D contains one private data member and 2 public member functions i.e mul() and display()
+63. Class student stores the roll number. Call test stores the marks obtained in 2 subjects. Class result can inherit the details of marks obtained in the test and the roll number of students using multilevel inheritance
+64. Create class M and N with one private data member each. Create a derived class P which is derived with multiple base classes M and N. Display all Data members of the derived class
+65. Ambiguity Resolution in Inheritance - 1
+66. Ambiguity Resolution in Inheritance - 2
+67. Class student stores the roll number. Call test stores the marks obtained in 2 subjects. Class sports contains the weightage of sports. Class result can inherit the details of marks obtained in the test and sports and the roll number of students using hybrid inheritance
+68. Create a class named Grandparent. Create 2 classes Parent1 and Parent2 both derived from Grandparent class. Create a class named child which is derived from Parent1 and Parent2. Use Virtual Base Classes accordingly
+69. Class student stores the roll number. Call test stores the marks obtained in 2 subjects. Class sports contains the weightage of sports. Class result can inherit the details of marks obtained in the test and sports and the roll number of students using Virtual Base Classes
+70. Abstract Class example
+71. Constructors in Derived Class Example - 1
+72. Constructors in Derived Class Example - 2
+73. Initialization List in Constructors
+74. Create a class named faculty with id and name as data member and getdata() to initialize the data members. Create a class details derived from faculty with data members as age and yrsofexp and getdata()  to initialize the data members and display()
+75. Constructors and Destructors in Derived Classes Example - 1
+76. Constructors and Destructors in Derived Classes Example - 2
+77. Create a class named item with code and price as data members. Create an array of object. Insert and Display data using appropirate functions accordingly
+78. Create a class named city which stores and display the name of a city. Create an array of pointers to show and display many city names
+79. Create a class named person with data members as name and age. Create a function which will decide and retrun the maximum age between 2 persons. Use of this pointer must be made
+80. Use of pointers in Base Class and Derived Class
+81. Create 2 classes named base and derived. Show the use of Virtual Functions
+82. Create a class named media which stores the title and price of a publication. Create 2 derived classes named book and tape which stores the number of pages in the book and another stores the playing time of the tape. Use display function to display all the contents
+83. Pure Virtual Function Example
+84. Virtual Destructor Example
+85. INCOMPLETE - !!!!! Using the concept of pointers, write a function that swaps the private data value of two objects of the same class type
+86. Create a base class shape with 2 double type of data members called width and height. Derive 2 classes named triangle and rectangle from the base shape. Add to the base class a member function get_data() to initialize the base class members and another member function display_area() to compute and display the area of figures. Make display_are() virtual function and redefine this function in the derived class. Design a program that will accept dimensions of a triangle or a rectangle interactively and display the area. Add a new derived class circle that computes the area of a circle
+87. Using template, create a program to accept any data type and display using a function within a class
+88. Using template, create a program to accept any 2 data types and display using a constructor of a class
+89. Slight problem !!!!! - Swap 2 numbers (which may be integer, floating or both) using template within a class using appropriate functions
+90. Create a class named item with 3 data members i.e name, code and cost. Read and write class objects using file handling techniques
+91. Create a class with one data member and save an array of objects in a file. Count and display the number of object in the file
+92. Create a class named item with 3 data members i.e name, code and cost. Include features for display, update, and insertion of new objects
+93. A file contains a list of names and their telephone numbers. The names contain only one word and the name and telephone numbers are separated by white spaces. Write a program to read the file and output the list in 2 columns. The names should be left justified and the numbers should be right justified. Use a class object to store each set of data.
+94. Write an interactive menu driven programthat will access the file created in the previous program (D093) and implement the following tasks: (a) Determine the telephone number of a specified person (b) Determine the name of a telephone number is know (c) Update the telephone number whenever there is a change (d) Add new records
+95. Write a program to design class representing the information regarding digital library (book and tape) should be separate class having the base class as media. The class having the functionality for adding new item, issuing book and deposit. Use the concept of virtual function to make this program.
+96. C++ program to add two complex number passing objects as arguments using friend function and without using friend function.
+97. Write a program to perform string copy operation by overloading == operator and using dynamic memory allocation ( with friend function).
+98. Write a program to perform string copy operation by overloading == operator and using dynamic memory allocation (Without friend function).
+99. Function Overriding
+100. Illustrate the use of vector class template for performing the scalar multiplication of int/float type of data vectors
